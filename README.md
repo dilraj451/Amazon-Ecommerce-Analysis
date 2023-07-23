@@ -1,7 +1,7 @@
 # Amazon E-Commerce Analysis
 
-## Objective
-To present a comprehensive competitor analysis within the online headphone market to advise a new/existing company involved in headphone sales to inform their business strategies.
+## Scenario
+As a data analyst working for a new client: an electronics company seeking to enter their new headphone/earbud devices onto the US market. One of the client's priorities is to launch the product on e-commerce platforms, primarily Amazon. The task is to provide an assessment of competitor products on the Amazon platform such that trends within the headphone market can be extracted to aid in driving the client's future decisions for the product launch.
 
 ## File Links
 
