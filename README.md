@@ -5,11 +5,11 @@ As a data analyst working for a new client: an electronics company seeking to en
 
 ## File Links
 
-[Raw Data](https://github.com/dilraj451/Amazon-Ecommerce-Analysis/raw/main/raw_data.xlsx)
+[Raw Data](https://github.com/dilraj451/Amazon-eCommerce-Analysis/raw/main/raw_data.xlsx)
 
-[Cleaned Data](https://github.com/dilraj451/Amazon-Ecommerce-Analysis/raw/main/amazon_data_FINAL.xlsx)
+[Cleaned Data](https://github.com/dilraj451/Amazon-eCommerce-Analysis/raw/main/amazon_data_FINAL.xlsx)
 
-[Exploratory Data Analysis](https://github.com/dilraj451/Amazon-Ecommerce-Analysis/blob/main/eda.ipynb)
+[Exploratory Data Analysis](https://github.com/dilraj451/Amazon-eCommerce-Analysis/blob/main/eda.ipynb)
 
 [Dashboard](https://public.tableau.com/app/profile/dilraj.sidhu/viz/Book1_16897739973890/Dashboard_Final?publish=yes)
 
@@ -18,6 +18,6 @@ Amazon search results webpages for 'headphones and earbuds' were scraped using [
 
 Data cleaning was primarily carried out on MS Excel and included: removing irrelevant features; removing duplicate samples and filling blanks fields with appropriate values; correctly formatting dates and currencies.
 
-Initial exploratory data analysis (EDA) was carried out using Pivot Tables to visualize large-scale trends such as brand popularity and whether additional factors, such as price and coupons, affect product ratings. Most EDA was executed in a [Jupyter Notebook](https://github.com/dilraj451/Amazon-Ecommerce-Analysis/blob/main/eda.ipynb), where numerous different visualizations were applied to: observe individual feature data distribution such that outliers could be removed if necessary; potential trends between speciifc features were investigated and evaluated.
+Initial exploratory data analysis (EDA) was carried out using Pivot Tables to visualize large-scale trends such as brand popularity and whether additional factors, such as price and coupons, affect product ratings. Most EDA was executed in a [Jupyter Notebook](https://github.com/dilraj451/Amazon-eCommerce-Analysis/blob/main/eda.ipynb), where numerous different visualizations were applied to: observe individual feature data distribution such that outliers could be removed if necessary; potential trends between speciifc features were investigated and evaluated.
 
 The most relevant trends were summarized within an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/dilraj.sidhu/viz/Book1_16897739973890/Dashboard_Final?publish=yes) for the benefit of key stakeholders seeking to observe competitor attributes.
